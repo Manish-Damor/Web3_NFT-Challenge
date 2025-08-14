@@ -1,7 +1,7 @@
 {
   "network": "arbitrum-sepolia",
-  "contract_address": "0xe2a8cd01354ecc63a8341a849e9b89f14ff9f08f",
-  "transaction_hash": "0x966416a646c193e83afe9d251bf1cf7698a4a443b3ae86134b53bbce1953ca49",
+  "contract_address": "0xa1e4a7c7d13a5fede5104626369dfe7b5c136dcf",
+  "transaction_hash": "0x68a988239299beabce114717fe61de55decc39746ddf514019b8d2ef3ba54e3e",
   "rpc_url": "https://sepolia-rollup.arbitrum.io/rpc",
-  "deployment_time": "2025-07-24T09:50:32Z"
+  "deployment_time": "2025-08-14T03:38:25Z"
 }
