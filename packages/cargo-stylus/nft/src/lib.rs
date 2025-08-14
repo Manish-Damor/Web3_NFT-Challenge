@@ -111,7 +111,7 @@ impl StylusNFT {
     }
 
     /// Initialize program - simplified version without ERC20
-    pub fn initialize(&mut self, art_contract_address: Address) -> Result<(), StylusNFTError> {
+    pub fn initialize_Manish_24_08(&mut self, art_contract_address: Address) -> Result<(), StylusNFTError> {
         let current_art_contract = self.art_contract_address.get();
         if !current_art_contract.is_zero() {
             return Err(StylusNFTError::AlreadyInitialized(AlreadyInitialized {}));
